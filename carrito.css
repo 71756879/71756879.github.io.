@@ -1,0 +1,12 @@
+body{
+    background-image: linear-gradient(0deg, rgb(5, 21, 37), rgba(189, 181, 181, 0.925)), url(./img/fondo3.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+.card.mt-3{
+    margin: 5px;
+    margin-left: 55px;
+    margin-bottom: 10px;
+}
